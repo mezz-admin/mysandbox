@@ -1,0 +1,6 @@
+1. This is the first line of text for the new feature.
+<<<<<<< HEAD
+
+=======
+   new line to be added.
+>>>>>>> new commit after soft reset
